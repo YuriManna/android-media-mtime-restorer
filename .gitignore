@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.csv
+.DS_Store
+Thumbs.db
+
+# Local recovery data / backups
+backup/
+backups/
+WhatsAppHostBackup/
